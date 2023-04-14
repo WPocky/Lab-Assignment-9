@@ -1,0 +1,2 @@
+# lab_assignment_9
+Can't figure out the insertRecord function. Being given 3 days to do this assignment is a very small span of time since I already have other work I need to do for other classes. There has also been no in class examples of this code provided, which makes understanding this code that much harder.
